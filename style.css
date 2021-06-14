@@ -60,8 +60,7 @@ body {
     font-weight: 500;
     font-size: 62px;
     line-height: 120%;
-    grid-area: ab;
-    
+    grid-area: ab;   
 }
 .pluses1 {
     grid-area: b;
