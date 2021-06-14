@@ -170,6 +170,8 @@ body {
     width: 950px;
     height: 57px;
     bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
     display: flex;
     position: fixed;
     z-index: 100;
