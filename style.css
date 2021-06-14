@@ -171,7 +171,6 @@ body {
     height: 57px;
     bottom: 20px;
     display: flex;
-    margin-top: 56px;
     position: fixed;
     z-index: 100;
 }
